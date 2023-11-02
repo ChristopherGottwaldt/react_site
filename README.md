@@ -4,7 +4,9 @@ React Website Practice for Portfolio Site
 Practicing React for a static site to showcase projects using:
 [Using this for help](https://ivy555.medium.com/create-a-simple-portfolio-website-in-reactjs-48e0670364e7)  
 
-[And this](https://www.freecodecamp.org/news/portfolio-app-using-react-618814e35843/)
+[And this](https://www.freecodecamp.org/news/portfolio-app-using-react-618814e35843/)  
+[Template](https://wpastra.com/templates/alexandrina-designer-bio-02/)  
+[Template List](https://wpastra.com/website-templates/personal/portfolio/)  
 
 # Getting Started with Create React App
 
